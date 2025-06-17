@@ -56,7 +56,13 @@ git clone https://github.com/Prathap-bs/spotifyclone.git
 cd spotifyclone
 Open index.html in your browser
 
-📌 Future Improvements
+```
+
+2. Open index.html in your browser
+
+
+
+##📌 Future Improvements
 Add JavaScript for music playback controls
 
 Add responsive mobile view
@@ -65,17 +71,11 @@ Dynamic playlist section
 
 Convert into a React or Next.js app with Spotify API
 
-🙋‍♂️ Author
+##🙋‍♂️ Author
 Prathap B S
 GitHub: @Prathap-bs
 
-📝 License
+##📝 License
 This project is for educational purposes only and is not affiliated with Spotify. You are free to use and modify the code for learning or personal use.
 
-yaml
-Copy
-Edit
 
----
-
-Let me know if you'd like to include badges (like `HTML5`, `CSS3`, `Open Source`) or deploy the site with mobile responsiveness — I can help you update that too!
