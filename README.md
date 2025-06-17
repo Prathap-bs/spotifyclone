@@ -61,8 +61,7 @@ Open index.html in your browser
 2. Open index.html in your browser
 
 
-
-##📌 Future Improvements
+📌 Future Improvements
 Add JavaScript for music playback controls
 
 Add responsive mobile view
@@ -70,12 +69,13 @@ Add responsive mobile view
 Dynamic playlist section
 
 Convert into a React or Next.js app with Spotify API
+---
 
-##🙋‍♂️ Author
+🙋‍♂️ Author
 Prathap B S
 GitHub: @Prathap-bs
 
-##📝 License
+---
+
+📝 License
 This project is for educational purposes only and is not affiliated with Spotify. You are free to use and modify the code for learning or personal use.
-
-
